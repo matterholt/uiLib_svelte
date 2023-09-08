@@ -2,14 +2,14 @@
 
 Svelte.js UI Libaray
 
-
 ## Tech
+
 - storybook
 
 ## Externals
 
 calender : https://github.com/williamtroup/Calendar.js
 
-## Other Depenancies
+## Other Dependencies
 
 - plop.js =>
